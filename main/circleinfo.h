@@ -1,6 +1,6 @@
 #pragma once
 /*
-ÔİÊ±ÎŞÓÃ
+åœ†çƒä¿¡æ¯ã€‚æš‚æ—¶æ— ç”¨
 */
 struct circleinfo {
 	int radius;
