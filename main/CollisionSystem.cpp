@@ -2,8 +2,8 @@
 #include "const.h"
 
 /*
-Ô²ĞÎÍêÈ«µ¯ĞÔÅö×²
-ÔİÊ±ÎŞÓÃ
+åœ†å½¢å®Œå…¨å¼¹æ€§ç¢°æ’
+æš‚æ—¶æ— ç”¨
 */
 class CollisionSystem {
 public:
